@@ -33,7 +33,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk-z.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="b2C-jJ-0iM">
-                                <rect key="frame" x="0.0" y="217" width="473" height="450"/>
+                                <rect key="frame" x="10" y="217" width="473" height="450"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
