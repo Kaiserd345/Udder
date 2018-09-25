@@ -12,6 +12,7 @@
 		66224DE3215A42B7000DDF81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66224DE1215A42B7000DDF81 /* Main.storyboard */; };
 		66224DE5215A42B7000DDF81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66224DE4215A42B7000DDF81 /* Assets.xcassets */; };
 		66224DE8215A42B7000DDF81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66224DE6215A42B7000DDF81 /* LaunchScreen.storyboard */; };
+		66224DF4215A4EC6000DDF81 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 66224DF3215A4EC6000DDF81 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		66224DE4215A42B7000DDF81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66224DE7215A42B7000DDF81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66224DE9215A42B7000DDF81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66224DF3215A4EC6000DDF81 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				66224DDD215A42B7000DDF81 /* AppDelegate.swift */,
+				66224DF3215A4EC6000DDF81 /* images */,
 				66224DDF215A42B7000DDF81 /* ViewController.swift */,
 				66224DE1215A42B7000DDF81 /* Main.storyboard */,
 				66224DE4215A42B7000DDF81 /* Assets.xcassets */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66224DF4215A4EC6000DDF81 /* images in Resources */,
 				66224DE8215A42B7000DDF81 /* LaunchScreen.storyboard in Resources */,
 				66224DE5215A42B7000DDF81 /* Assets.xcassets in Resources */,
 				66224DE3215A42B7000DDF81 /* Main.storyboard in Resources */,
